@@ -5,6 +5,7 @@
 **Controls**: a/d (left/right).
 
 **Goal**: No goal, this was made to test out logic and colliders.
+
 **Description**: You control the circle, if the circle touches the axe(square), then the game ends and you get the "game over" screen.
 
 My plans if I come back to this:
