@@ -1,6 +1,6 @@
-# "Basic-Axe-Game" is a game made from GameDev.tv's C++ Video Game Development course.
+# Basic Axe Game
 
-**Basic Axe Game**
+**"Basic-Axe-Game" is a game made from GameDev.tv's C++ Video Game Development course.**
 
 **Controls**: a/d (left/right).
 
